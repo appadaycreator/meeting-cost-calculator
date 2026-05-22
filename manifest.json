@@ -1,0 +1,8 @@
+{
+  "name": "Meeting Cost Calculator",
+  "short_name": "meeting-cost",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
